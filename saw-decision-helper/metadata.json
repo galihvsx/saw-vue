@@ -1,6 +1,0 @@
-{
-  "name": "SAW Decision Helper",
-  "description": "A web application to solve Simple Additive Weighting (SAW) problems by allowing users to define criteria, alternatives, and their values, then calculating and displaying the ranked results.",
-  "requestFramePermissions": [],
-  "prompt": ""
-}
